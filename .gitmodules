@@ -1,0 +1,12 @@
+[submodule "main/lib/esp32-camera"]
+	path = main/lib/esp32-camera
+url=git@github.com:irarykim/esp32-cam.git
+[submodule "main/lib/esp-dl"]
+	path = main/lib/esp-dl
+	url = git@github.com:espressif/esp-dl.git
+[submodule "main/lib/esp-sr"]
+	path = main/lib/esp-sr
+	url = git@github.com:espressif/esp-sr.git
+[submodule "main/lib/esp-nn"]
+	path = main/lib/esp-nn
+	url = https://github.com/espressif/esp-nn.git

@@ -1,0 +1,27 @@
+dependencies:
+  espressif/esp-dsp:
+    component_hash: a9a1e516033ce2ea63e6286cc227d8ecb87769d628dcc6394b4e024311ac64b9
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.3.0
+  espressif/quirc:
+    component_hash: 3be250a06364f0d71a7903b66ac93084d2ce3998c2e75a168b9f1f0621dd6218
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.2.0
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 4.4.6
+  liux-pro/apriltag:
+    component_hash: 6d80e23000a5b63043688d3e90f4856dc60e33c5321dac4325ae957661f57085
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.0.4
+manifest_hash: 045a96e2e517975f656ec0031d73c6f6d01c0c7905379bdf0a08e0002a49253d
+target: esp32s3
+version: 1.0.0
